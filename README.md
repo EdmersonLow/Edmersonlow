@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edmerson Low</h1>
 <h3 align="center">I'm a Information Engineering and Media sophomore in Nanyang Technological University, Singapore.</h3>
-**`Passionate in Information Technology and Finance field.`**
+
+**` Passionate in Information Technology and Finance field. `**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmersonlow&label=Profile%20views&color=0e75b6&style=flat" alt="edmersonlow" /> </p>
 
