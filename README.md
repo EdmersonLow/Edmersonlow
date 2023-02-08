@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Edmerson Low</h1>
-<h3 align="center">I'm a Information Engineering and Media sophomore in Nanyang Technological University, Singapore.</h3>
+<h1 align="left">Hi 👋, I'm Edmerson Low</h1>
+<h3 align="left">I'm a Information Engineering and Media sophomore in Nanyang Technological University, Singapore.</h3>
 
 **` Passionate in Information Technology and Finance field. `**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmersonlow&label=Profile%20views&color=0e75b6&style=flat" alt="edmersonlow" /> </p>
 
-- 🔭 I’m currently working on **Web Development (IM2073)**
+- 🔭 I’m currently working on **Web Development (IM2073/Introduction to Design and Project)** , **Enitio Orientation Website (School of Electrical and Electronic Engineering) **, **Personal Website**
 
 - 🌱 I’m currently learning **Typescript , NestJs**
 
