@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development (IM2073/Introduction to Design and Project)** , **Enitio Orientation Website (School of Electrical and Electronic Engineering)**, **Personal Website** .
 
-- 🌱 I’m currently learning **Typescript , NestJs**
+- 🌱 I’m currently learning **Typescript , NestJs, Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
