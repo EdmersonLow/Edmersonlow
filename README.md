@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript , NestJs, Tailwind**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
