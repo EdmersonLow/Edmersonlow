@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmersonlow&label=Profile%20views&color=0e75b6&style=flat" alt="edmersonlow" /> </p>
 
-- 🔭 I’m currently working on **Web Development (IM2073/Introduction to Design and Project) almost done hehe ** , **Enitio Orientation Website (School of Electrical and Electronic Engineering)**, **Personal Website** .
+- 🔭 I’m currently working on **DIP Project**
 
-- 🌱 I’m currently learning **Typescript , NestJs, Tailwind**
+- 🌱 I’m currently learning **Django , AWS, NextJS**
 
 
 <p align="left">
