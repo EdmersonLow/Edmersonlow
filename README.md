@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmersonlow&label=Profile%20views&color=0e75b6&style=flat" alt="edmersonlow" /> </p>
 
-- 🔭 I’m currently working on **DIP Project**
 
-- 🌱 I’m currently learning **Django , AWS, NextJS**
 
 
 <p align="left">
